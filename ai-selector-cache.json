@@ -1,0 +1,21 @@
+{
+  "https://phil.qa/": {
+    "page header text": ".header-inner .site-brand-container a",
+    "main content section title": ".profile-title",
+    "menu items in the navigation": ".menu-list li a",
+    "profile image": ".profile-image img",
+    "profile content section": ".profile-content",
+    "GitHub a href link": "a[href*=\"github.com/philqa\"]",
+    "LinkedIn a href": "a[href*=\"linkedin.com/in/philliphicks\"]",
+    "Strava anchor tag": "a[href^=\"https://www.strava.com/athletes/philqa\"]",
+    "button for default theme": "#defaultThemeBtn",
+    "button for classic theme": "#classicThemeBtn",
+    "button for dark theme": "#darkThemeBtn",
+    "footer text containing copyright and powered by information": ".footer .header-inner div:nth-child(1)",
+    "search button in the navigation": ".menu-list .search-btn a"
+  },
+  "https://phil.qa/#": {
+    "search input field that appears after clicking search": ".search-input-container input.search-input",
+    "search result li tags": ".search-result-list li"
+  }
+}
